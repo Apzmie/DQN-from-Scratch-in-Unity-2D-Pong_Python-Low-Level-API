@@ -42,7 +42,7 @@ Coordinate inputs are used instead of image inputs for faster learning.
 
 Implementing only these two techniques resulted in faster learning.
 
-## Learning Progress
+## Training Progress
 ![plot](images/plot.png)
 This was conducted in an environment where the ball speed was fixed and the ball angle varied depending on the contact point with the paddle.
 
